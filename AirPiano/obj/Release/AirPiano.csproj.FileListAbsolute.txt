@@ -1,0 +1,93 @@
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\AirPiano.exe.config
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\a-kick.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\a-snare.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\a-crash.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX1.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX10.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX2.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX4.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX5.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX6.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX7.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX8.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\FX9.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop1.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop2.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop4.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop5.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop6.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop7.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop8.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop9.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\c3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\d3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\e3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\f3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\g3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\a3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\b3.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\c4.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx1.wav
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\AirPiano.exe
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\bin\Release\AirPiano.pdb
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.Main.resources
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.Properties.Resources.resources
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.csproj.GenerateResource.Cache
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.exe
+D:\My Projects\C# Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.pdb
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\AirPiano.exe.config
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.exe
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.pdb
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\drum\001.a-kick.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\drum\002.a-snare.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\drum\003.a-crash.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\001.FX1.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\010.FX10.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\002.FX2.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\003.FX3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\004.FX4.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\005.FX5.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\006.FX6.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\007.FX7.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\008.FX8.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\fx\009.FX9.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\001.loop1.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\002.loop2.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\003.loop3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\004.loop4.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\005.loop5.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\006.loop6.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\007.loop7.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\008.loop8.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\loop\009.loop9.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\001.c3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\002.d3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\003.e3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\004.f3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\005.g3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\006.a3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\007.b3.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\piano\008.c4.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\touch\slide.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\touch\drum.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\touch\guitar.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\touch\keyboard.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\001.s01.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\002.s02.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\003.s03.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\004.s04.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\005.s05.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\006.s06.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\007.s07.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\008.s08.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\009.s09.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\vinyl\010.s10.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\sound\touch\organ.wav
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\AirPiano.exe
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\bin\Release\AirPiano.pdb
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.Main.resources
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.Properties.Resources.resources
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.csproj.GenerateResource.Cache
+D:\MyProjects\C#Projects\AirPiano\AirPiano\AirPiano\obj\Release\AirPiano.csprojResolveAssemblyReference.cache
